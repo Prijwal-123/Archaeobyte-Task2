@@ -37,7 +37,7 @@ To run the iChat web application locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Chat_Web_App.git
+   git clone https://github.com/Prijwal-123/Archaeobyte-Task2
    ```
 
 2. Install the required dependencies:
